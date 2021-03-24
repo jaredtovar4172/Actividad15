@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\bin\Debug\Ej15_TablaMultiplicar.exe.config
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\bin\Debug\Ej15_TablaMultiplicar.exe
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\bin\Debug\Ej15_TablaMultiplicar.pdb
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.Form1.resources
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.exe
+C:\Users\jared\source\repos\Ej15_TablaMultiplicar\Ej15_TablaMultiplicar\obj\Debug\Ej15_TablaMultiplicar.pdb
